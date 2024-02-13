@@ -1,6 +1,6 @@
 # Case: Impacto Social da {reprograma}
 
-Esse projeto foi criada com dados fictícios fornecidos pela empresa na etapa de desafio técnico do processo seletivo.
+Esse projeto foi criado com dados fictícios fornecidos pela empresa na etapa de desafio técnico do processo seletivo.
 
 ## Contexto
 
